@@ -1,5 +1,5 @@
-nombre = "Camilo Farid";
-apellidos = "Ávila Suarez";
+nombre = "Javier";
+apellidos = "Aponte";
 
 saludos = "Hola " + nombre + " " + apellidos + " ¿Cómo estas?";
 
