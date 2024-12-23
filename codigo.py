@@ -1,4 +1,4 @@
-nombre = "Farid Camilo";
+nombre = "Jenny Alexandra";
 apellidos = "Ávila Suarez";
 
 saludos = "Hola " + nombre + " " + apellidos + " ¿Cómo estas?";
